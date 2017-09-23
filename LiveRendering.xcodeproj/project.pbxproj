@@ -12,6 +12,7 @@
 		9B0BC2991F76092A00F4BA0A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9B0BC2971F76092A00F4BA0A /* Main.storyboard */; };
 		9B0BC29B1F76092A00F4BA0A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9B0BC29A1F76092A00F4BA0A /* Assets.xcassets */; };
 		9B0BC29E1F76092A00F4BA0A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9B0BC29C1F76092A00F4BA0A /* LaunchScreen.storyboard */; };
+		9B0BC2A61F760DDE00F4BA0A /* PieView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B0BC2A51F760DDE00F4BA0A /* PieView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		9B0BC29A1F76092A00F4BA0A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9B0BC29D1F76092A00F4BA0A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9B0BC29F1F76092A00F4BA0A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9B0BC2A51F760DDE00F4BA0A /* PieView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PieView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				9B0BC2931F76092A00F4BA0A /* AppDelegate.swift */,
 				9B0BC2951F76092A00F4BA0A /* ViewController.swift */,
+				9B0BC2A51F760DDE00F4BA0A /* PieView.swift */,
 				9B0BC2971F76092A00F4BA0A /* Main.storyboard */,
 				9B0BC29A1F76092A00F4BA0A /* Assets.xcassets */,
 				9B0BC29C1F76092A00F4BA0A /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			files = (
 				9B0BC2961F76092A00F4BA0A /* ViewController.swift in Sources */,
 				9B0BC2941F76092A00F4BA0A /* AppDelegate.swift in Sources */,
+				9B0BC2A61F760DDE00F4BA0A /* PieView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
